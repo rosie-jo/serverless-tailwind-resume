@@ -1,4 +1,4 @@
-name: update website
+name: update backend infrastructure
 
 on:
   push:
