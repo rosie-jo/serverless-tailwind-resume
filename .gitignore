@@ -1,0 +1,12 @@
+.terraform.*
+.terraform/
+.vs/
+terraform.tfstate.*
+terraform.tfstate
+/frontend/node_modules/
+/frontend/package-lock.json
+/frontend/package.json
+/frontend/src/
+/frontend/tailwind.config.js
+/frontend/index.html
+/frontend/styles.css
