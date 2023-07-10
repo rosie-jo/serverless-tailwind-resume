@@ -5,7 +5,7 @@
 ![IMG_1042](https://github.com/rosie-jo/serverless-tailwind-resume/assets/59978790/b4d2a16c-2aee-457e-b59e-0b52d901536a)
 
 
-The point of this is to create a serverless personal website for the purpose of learning different devops methods and cloud resources, following the guidelines within [The Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/). The diagram above shows the architecture; A user connects and is distrobuted the content via the aws cdn (cloudfront) and is delivered content from a bucket, as well as fetching data from dynamoDB which is triggered via a lambda function which is invoked upon a javascript call to the api which is all within the cdn delivered content - the diagram probably explains the flow better than my words do. 
+The point of this is to create a serverless personal website for the purpose of learning different devops methods and cloud resources, following the guidelines within [The Cloud Resume Challenge](https://cloudresumechallenge.dev/docs/the-challenge/). The diagram above shows the architecture; A user connects and is distributed the content via the aws cdn (cloudfront) and is delivered content from a bucket, as well as fetching data from dynamoDB which is triggered via a lambda function which is invoked upon a javascript call to the api which is all within the cdn delivered content - the diagram probably explains the flow better than my words do. 
 
 ## What is this ?
 
