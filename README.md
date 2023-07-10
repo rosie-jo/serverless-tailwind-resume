@@ -13,7 +13,7 @@ This is my attempt at the cloud resume challenge, completed in about 2 months pa
 
 ### how did I about completing this, what decisions did I make ?
 
-I've always had my heart set on learning AWS out of the main cloud providers, however to me it seemed working cloud agnostically made sense in terms of IaC so I opted to use terraform. Eventhough I wanted to code this project out, I knew enough to know I couldn't begin with coding, so I built out the whole project clicking through the console to familarise myself with what I would need to know - from there I opened vscode and the docs and got programming !
+I've always had my heart set on learning AWS out of the main cloud providers, however to me it seemed working cloud agnosticly made sense in terms of IaC so I opted to use terraform. Eventhough I wanted to code this project out, I knew enough to know I couldn't begin with coding, so I built out the whole project clicking through the console to familarise myself with what I would need to know - from there I opened vscode and the docs and got programming !
 
 ## The repo begins with a full project ?
 
@@ -23,7 +23,7 @@ This repo does not contain the full challenge as I was working with two differen
 
 There was quite a few points within the project which kept me stuck for a week or so at a time, such as:
 - blocking access to my s3 bucket without blocking cloudfront 
-- validating (within terraform) the ssl certificate for cloudnfront to use 
+- validating (within terraform) the ssl certificate for cloudfront to use 
 - using the boto3 library for python scripting (for the lambda function)
 - pathing locally for the api gateway within terraform
 
@@ -31,7 +31,7 @@ There was quite a few points within the project which kept me stuck for a week o
 
 ## What would I improve upon if I was to take the challenge again ?
 
-The challenge was all new to me, new methodologies, new technologies, new doccumentation, etc. If I was to complete the challenge again here's what I would improve:
+The challenge was all new to me, new methodologies, new technologies, new documentation, etc. If I was to complete the challenge again here's what I would improve:
 
 - Begin with implementing the CI/CD workflow rather than finish with it
 - Stop tinkering with AWS resources before terraform destroying.
