@@ -1,4 +1,4 @@
-﻿# serverless-tailwind-resume (cloud Resume Challenge)
+﻿# serverless-tailwind-resume (cloud Resume Challenge) | https://rosie-jo.com/
 
 ## Architecture / overview
 
@@ -29,7 +29,7 @@ There was quite a few points within the project which kept me stuck for a week o
 
   but I overcame all of these with enough research (and grit) !
 
-# What would I improve upon if I was to take the challenge again ?
+## What would I improve upon if I was to take the challenge again ?
 
 The challenge was all new to me, new methodologies, new technologies, new doccumentation, etc. If I was to complete the challenge again here's what I would improve:
 
